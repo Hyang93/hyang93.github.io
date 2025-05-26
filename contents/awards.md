@@ -1,3 +1,2 @@
-- "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition, 3rd Prize, 2023.
-- First-prize Scholarship of TU, 2022-2024.
-- First-prize Scholarship of CCNU, 2015-2017.
+- 县级骨干教师,县级教学能手.
+- 2022,2023年度县级表彰.

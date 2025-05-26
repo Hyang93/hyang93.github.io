@@ -1,15 +1,15 @@
 
 
-[![JOJOXAI](https://img.shields.io/badge/jojoxai-github-blue?logo=github)](https://github.com/JOJOXAI)
+[![JOJOXAI](https://img.shields.io/badge/hyang93-github-blue?logo=github)](https://github.com/Hyang93)
 
-He is currently pursuing a Ph.D. degree in Computer Science at the School of Information Science and Technology, Tibet University,Lhasa,China.IEEE Member, CCF Member,Reviewers for IEEE SMC and ICME.
+She is pursuing a master's degree in educational management studies at Guangxi Minzu University and is a first-line teacher of high school language.
 #### Email
-jojoxia98@gmail.com
+hyang93@163.com
 
 #### Education
-Educational Technology, Department of Artificial Intelligence Education, Central China Normal University,Wuhan,China.(Master)
+Educational management, Guangxi Minzu University,Nanning,China.(Master)
 
 
 #### Research Interests
-Computer vision(image classification, target detection, image segmentation), Multi-modal intelligence, Calculation of cultural heritage.
+Language teaching theory, Educational management, Digital humanities.
 

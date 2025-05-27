@@ -11,5 +11,5 @@ Educational management, Guangxi Minzu University,Nanning,China.(Master)
 
 
 #### Research Interests
-课程教学论,国际中文教育,教育管理,数字人文.
+课程教学论; 国际中文教育; 教育管理; 数字人文.
 
